@@ -31,4 +31,4 @@ KPI(Revenue,Total Interest, Txn Amt, Txn Count)
 Slicier(Quarter,Week_start_day, Gender,Card Category)
 Vizualizations(Revenue by card Type[Bar Chart], Revenue by Job[Bar Chart], Qtr Revenue and Total Txn Count[Col & Line Chart], Revenue by Expenditure Type [Bar Chart],Revenue by Education[Bar Chart],Revenue by Card Category [Bar Chart] and a table/matrix)
 
-##Now the dashbaord and insights are ready to share with stakeholders and to make inform decision
+## Now the dashbaord and insights are ready to share with stakeholders and to make inform decision
